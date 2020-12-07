@@ -1,1 +1,1 @@
-# DTV-Shredder-Resources-Collection
+# DTV Shredder Resources Collection
